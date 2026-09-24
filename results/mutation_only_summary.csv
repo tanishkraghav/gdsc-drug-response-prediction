@@ -1,0 +1,3 @@
+Cancer,R2_categorical_only,R2_mutation_only,R2_full_expression_baseline
+Colorectal,0.760640100170613,0.772454063187717,0.7602
+Melanoma,0.7510043406348316,0.765466186656177,0.7466
