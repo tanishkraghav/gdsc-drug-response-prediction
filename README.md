@@ -4,7 +4,7 @@ Predicting cancer cell-line drug sensitivity (LN_IC50) from gene expression,
 mutation status, and clinical markers — across five cancer types (breast,
 lung/NSCLC, colorectal, melanoma, ovarian).
 
-**[Live dashboard →](https://lovely-cupcake-5150f4.netlify.app/)**
+**[Live dashboard →](https://melodic-twilight-4ba868.netlify.app/)**
 
 A collaborative bioinformatics + ML project: cancer-wise gene mapping,
 dataset sourcing, and biological interpretation on one side; feature
